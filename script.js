@@ -1,5 +1,7 @@
 const cats = [
     {
+        
+        
         name: "Blob",
         age: 10
     },
